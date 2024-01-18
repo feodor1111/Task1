@@ -47,3 +47,7 @@ git checkout <branch name>_<commit hash>
 ## Слияние веток
 
 ## Удаление веток
+```
+git branch -d branch_name
+```
+Удаляет ветку с именем "branch_name".
