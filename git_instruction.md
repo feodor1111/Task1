@@ -43,6 +43,10 @@ git checkout <branch name>_<commit hash>
 ## Отображение всех веток
 
 ## Создание новых веток
+```
+git branch new_branch_name
+```
+Создаёт новую ветку с именем "new_branch_name".
 
 ## Слияние веток
 
